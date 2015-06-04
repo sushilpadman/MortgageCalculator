@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dollar">$</string>
+    <string name="purchase_price">Purchase price \t\t:</string>
+    <string name="down_payment">Down payment \t\t:</string>
+    <string name="interest_rate">Interest rate\t\t\t\t\t:</string>
+    <string name="loan_term_years">Loan term years    \t:</string>
+    <string name="mortage_payment">Mortgage Payment\t\t   :</string>
+    <string name="total_loan_payment">Total Loan Payment\t :</string>
+    <string name="calculate">Calculate</string>
+    <string name="percentage">%</string>
+
+</resources>
